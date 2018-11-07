@@ -1,4 +1,4 @@
-text/*/*.txt
-spam/*.txt
-ok/*.txt
-spam-database-ja-master/*/*.txt
+./text/*/*.txt
+./spam/*.txt
+./ok/*.txt
+./spam-database-ja-master/*/*.txt
